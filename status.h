@@ -17,6 +17,7 @@
 #include <iomanip>
 #include <QString>
 #include <QTime>
+#include <cmath>
 
 using namespace std;
 
