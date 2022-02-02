@@ -18,6 +18,7 @@
 #include <QString>
 #include <QTime>
 #include <cmath>
+#include <math.h>
 
 using namespace std;
 
